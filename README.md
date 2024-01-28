@@ -29,24 +29,50 @@
     <h3>- Tester l'authentification avec Client ID et Client Secret</h3>
     <h3>- Changer les paramètres des Tokens Access Token et Refresh Token</p></h3>
 
+<h1>Partie 1</h1>
 
-<img width="900" height="450" alt="Capture1" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/587d5f47-ffd3-4dea-ba61-c9ce361c1230">
-<img width="900" height="450"  alt="Capture2" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/857ef529-3fce-4043-a116-0053d146068e">
-<img width="900" height="450"  alt="Capture3" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/c521123b-9a06-41c2-beb2-1b8d0977dda3">
-<img width="900" height="450"  alt="Capture4" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/97910b05-a8a5-46f6-b1f6-9dfd1d1f9b2c">
-<img width="900" height="450"  alt="Capture5" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/5cdafd01-e062-454a-a638-1ed3f261e104">
-<img width="900" height="450"  alt="Capture6-par mp" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/67cefc5c-3f55-439a-92d0-5320bc303079">
-<img width="900" height="450"  alt="Capture7-par refresh token" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/57e38b35-6089-426b-94eb-650e40fb8737">
-<img width="900" height="450"  alt="Capture8-par client secret" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/4b3cd2c5-b05c-4705-be80-e9316983bc43">
-<imgwidth="900" height="450"  alt="Capture9" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/3b35cb23-7e32-48ee-8f0d-e98739410764">
-<img width="900" height="450"  alt="Capture10" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/87bf9a8f-420f-4298-84f1-7091d60089e3">
-<img width="900" height="450"  alt="Capture11" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/630f4bc1-2d7d-4a1e-a915-f4a3021c4849">
-<img width="900" height="450"  alt="Capture12" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/d80639da-40d8-4936-b63d-e17a1c14609d">
-<img width="900" height="450"  alt="Capture13-graphQl" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/764f77ad-98b6-46ad-a9ba-e542df81a38e">
-<img width="900" height="450"  alt="Capture14" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/64d22218-b03d-4974-8e24-626d51d7a3b6">
-<img width="900" height="450"  alt="Capture15" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/33ca3fc3-08f5-4199-a2e1-9191c7b5e78c">
-<img width="900" height="450"  alt="Capture16" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/355a22af-f896-4a4d-bf6d-067f7e68181e">
-<img width="900" height="450"  alt="Capture17-ConfigKC" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/5cdfdf55-49db-45b1-b679-e38f98a42f9b">
-<img width="900" height="450"  alt="Capture18" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/b419b3d3-a3cb-4aa0-aace-d57b2e215077">
-<img width="900" height="450"  alt="Capture19" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/079e2adc-2c47-4a3f-9614-b3a325de7260">
-<img width="900" height="450"  alt="Capture20" src="https://github.com/hajarmanyani/Keycloak_microservices_Rest_GraphQl/assets/93662714/56473f7d-c59d-4008-bf54-787c121871a6">
+<img width="1000" height="500" alt="Capture1" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/efe5f95d-607d-4248-9046-5a413cab0896">
+<img width="1000" height="500" alt="Capture2" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/a57c7923-fb85-47f4-a708-dc5a73b40bf7">
+<img  width="1000" height="500" alt="Capture3" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/08394fc4-ddb0-4a67-921b-4da037efb334">
+<img  width="1000" height="500" alt="Capture4" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/4027c680-8d98-41f0-9bf6-00f946059163">
+<img  width="1000" height="500" alt="Capture5" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/c434ac6b-6a17-4a64-88e5-9873a03ac3cd">
+<img  width="1000" height="500" alt="Capture6-par mp" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/55522ad8-544e-4e92-bf04-b350a57f1d71">
+<img  width="1000" height="500" alt="Capture7-par refresh token" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/830c76d4-0d53-494a-bcb5-33efb98b0c53">
+<img  width="1000" height="500" alt="Capture8-par client secret" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/06b6ccc0-d8dd-489a-8761-33fce7a14c6a">
+<img  width="1000" height="500" alt="Capture9" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/2c927ee9-37b2-4861-9b3b-819a13b60066">
+<img  width="1000" height="500" alt="Capture10" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/4729374e-302b-4d8a-955d-6da591c41575">
+<img width="1000" height="500" alt="Capture11" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/bf4586e5-e072-47d6-9c76-2cf98be12366">
+<img  width="1000" height="500" alt="Capture12" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/3f6a7f53-13df-4470-84d4-229f75835d39">
+<img  width="1000" height="500" alt="Capture13-graphQl" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/366b19c6-9424-42b9-a523-fd29bf6d09f2">
+<img  width="1000" height="500" alt="Capture14" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/860a9e71-54ba-481f-b755-afd0e48d10d3">
+<img  width="1000" height="500" alt="Capture15" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/eca72287-c70a-4553-8881-adff1796a8ee">
+<img  width="1000" height="500" alt="Capture16" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/4c80c37f-bad9-4373-adc8-23f8acc463d5">
+<img  width="1000" height="500" alt="Capture17-ConfigKC" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/141b805f-5fdb-4d17-bdd0-114dd8ad9943">
+<img  width="1000" height="500" alt="Capture18" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/0956c761-05e4-4464-8f13-30cf94ceca26">
+<img width="1000" height="500" alt="Capture19" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/cba17448-699c-40cd-ab19-2c8bf9bce7dc">
+<img  width="1000" height="500" alt="Capture20" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/b979b096-aa9d-4bc1-8849-ecfb2f661b00">
+
+<h1>Partie 2</h1>
+<img  width="1000" height="500" alt="Capture1" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/6aa7f453-538e-4fde-b085-2fd3f64367de">
+<img  width="1000" height="500" alt="Capture2" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/8d6e8a44-8e89-4e6c-937e-01d4566046b2">
+<img  width="1000" height="500" alt="Capture3" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/66fc0343-1aec-4246-8b5f-a119d6c594dc">
+<img  width="1000" height="500" alt="Capture4" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/75b62342-89f8-4b1f-9d2d-6cac9fef7ce9">
+<img  width="1000" height="500" alt="Capture5" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/68b4145a-a4e2-4fb8-8b8b-e06d638184fb">
+<img  width="1000" height="500" alt="Capture6" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/323b7573-d213-42d5-83b4-d6c7ec4a8846">
+<img  width="1000" height="500" alt="Capture7" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/b430f979-acbe-456b-a5ab-0e70cbea4e28">
+<img  width="1000" height="500" alt="Capture8" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/a000d84b-daf0-42e1-b812-efacad2671f9">
+<img width="1000" height="500" alt="Capture9" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/e63075d5-b081-4800-8f2f-f91fbe44ae27">
+<img  width="1000" height="500" alt="Capture10" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/0343e708-505f-4f3e-8a8b-0f53f6df27c3">
+<img  width="1000" height="500" alt="Capture11" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/3ce70809-ed2f-43f0-aff1-033ab4ec0f49">
+<img width="1000" height="500" alt="Capture12" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/1699adfc-93e7-47e6-9ea1-ff26ab947bf8">
+<img width="1000" height="500" alt="Capture13" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/e9ae894c-c999-4110-9287-9f29b753096a">
+<img  width="1000" height="500" alt="Capture14" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/bdda03bf-b98d-4612-9b90-fa7ad18547ff">
+<img  width="1000" height="500" alt="Capture15" src="https://github.com/hajarmanyani/activite7_keycloak_oauth2_authentication/assets/93662714/c006e8e8-fd4e-4a35-9571-86c71e0a0477">
+
+
+
+
+
+
+
+
